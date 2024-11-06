@@ -10,7 +10,7 @@ sidebar_indicators = ("Fear & Greed Index", "VIX", "Warren Buffett indicator - M
 dashboard_main_title = "TRAVEL - Market Risk Dashboard"
 
 path_bonds = 'https://raw.githubusercontent.com/ricardoandreom/TRAVEL_MARKET_RISK/refs/heads/main/TRAVEL_Market_Risk/bonds_data/'
-path_cds = 'C:/Users/Admin/Desktop/Market_Risk_dashboard/cds_data/'
+path_cds = 'https://raw.githubusercontent.com/ricardoandreom/TRAVEL_MARKET_RISK/refs/heads/main/TRAVEL_Market_Risk/cds_data/'
 
 travel_logo_url = "https://raw.githubusercontent.com/ricardoandreom/TRAVEL_MARKET_RISK/refs/heads/main/TRAVEL_Market_Risk/travel_logo.webp"
 
