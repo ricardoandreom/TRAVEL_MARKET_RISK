@@ -12,7 +12,7 @@ dashboard_main_title = "TRAVEL - Market Risk Dashboard"
 path_bonds = 'https://raw.githubusercontent.com/ricardoandreom/TRAVEL_MARKET_RISK/refs/heads/main/TRAVEL_Market_Risk/bonds_data/'
 path_cds = 'https://raw.githubusercontent.com/ricardoandreom/TRAVEL_MARKET_RISK/refs/heads/main/TRAVEL_Market_Risk/cds_data/'
 
-travel_logo_url = "https://raw.githubusercontent.com/ricardoandreom/TRAVEL_MARKET_RISK/refs/heads/main/TRAVEL_Market_Risk/travel_logo.webp"
+travel_logo_url = "https://raw.githubusercontent.com/ricardoandreom/TRAVEL_MARKET_RISK/refs/heads/main/TRAVEL_Market_Risk/travel_logo.webp?token=GHSAT0AAAAAACX7EBGCG23F6DHHSHSQKCOYZZMPQTA"
 
 # Alphavantage API Key
 alpha_api_key = 'EW4A338V8YGLZI3G'
